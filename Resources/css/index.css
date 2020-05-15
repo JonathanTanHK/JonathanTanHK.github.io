@@ -1,1 +1,28 @@
 /*CSS STYLE SHEET*/
+.banner {
+  background-image:url("../Image/pattern.jpeg");
+  font-family:Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  padding: 15px;
+
+}
+
+.sectionbreak {
+
+
+}
+
+.green {
+
+}
+
+.red {
+
+}
+
+.blue {
+
+}
